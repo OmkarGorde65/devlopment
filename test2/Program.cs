@@ -11,6 +11,9 @@ namespace test2
         static void Main(string[] args)
         {
             int a;
+            int b;
+            int sum;
+            sum = (a + b);
         }
     }
 }
