@@ -8,12 +8,16 @@ namespace test2
 {
     class Program
     {
-        static void Main(string[] args)
+        class variables
         {
             int a;
             int b;
-            int sum;
-            sum = (a + b);
+        }
+        static void Main(string[] args)
+        {
+            variables r = new variables();
+            //good one
+
         }
     }
 }
